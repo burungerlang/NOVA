@@ -1,0 +1,22 @@
+{
+  "name": "NOVA",
+  "symbol": "NOVA",
+  "description": "Nova is a next-generation token on the Solana blockchain, created to power fast, secure, and affordable digital experiences. Focused on Web3, DeFi, NFTs, and global adoption, Nova offers high-speed transactions and low fees",
+  "seller_fee_basis_points": 0,
+  "image": "nova.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "nova.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GeDzztfMU4QE3iBfdDP4JYqNcgB25aq4YpKUdrAwVVqG",
+        "share": 100
+      }
+    ]
+  }
+}
